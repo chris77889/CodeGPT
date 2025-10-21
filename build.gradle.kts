@@ -63,7 +63,7 @@ dependencies {
         bundledPlugin("com.intellij.java")
         bundledPlugin("org.jetbrains.kotlin")
         bundledPlugin("Git4Idea")
-        plugin("PythonCore:241.14494.240")
+        plugin("PythonCore:252.25557.131")
 
         testFramework(TestFrameworkType.Platform)
         testFramework(TestFrameworkType.JUnit5)
